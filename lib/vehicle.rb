@@ -1,7 +1,4 @@
 
-class Car < Vehicle; 
-  end
- 
 
 class Vehicle
 attr_accessor :wheel_size, :wheel_number
